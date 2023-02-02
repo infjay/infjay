@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jawid</h1>
 <h3 align="center">A passionate frontend developer from Berlin</h3>
-<img src="https://images.squarespace-cdn.com/content/v1/5c7587009b8fe85c2c0dc61d/1556000448871-SOD7CM8JU11DKW9L0UCX/Jake_Ayars_Warpspeed-1.gif?format=1500w" />
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5c7587009b8fe85c2c0dc61d/1556000448871-SOD7CM8JU11DKW9L0UCX/Jake_Ayars_Warpspeed-1.gif?format=1500w"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infjay&label=Profile%20views&color=0e75b6&style=flat" alt="infjay" /> </p>
 
