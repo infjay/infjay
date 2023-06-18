@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript,MUI,TailwindCss**
+- 🌱 I’m currently learning **TypeScript,Next.js,TailwindCss**
 
 - 👯 I’m looking to collaborate for **New Projects**
 
