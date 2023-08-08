@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate for **New Projects**
 
-- 👨‍💻 All of my projects are available at https://jawid.net
-
 - 💬 Ask me about **React,JS**
 
 - 📫 How to reach me **hello@jawid.net**
