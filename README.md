@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate for **New Projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio Under Construction](Portfolio Under Construction)
+- 👨‍💻 All of my projects are available at https://jawid.net
 
 - 💬 Ask me about **React,JS**
 
-- 📫 How to reach me **Jawid.nm@gmail.com**
+- 📫 How to reach me **hello@jawid.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
